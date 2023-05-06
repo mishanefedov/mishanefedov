@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+### :wrench: My open source contributions:
+- [a16z/magi](https://github.com/a16z/magi)
+
 ### 🛠 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=aws,ansible,azure,react,vue,flutter,bash,c,cpp,cmake,django,docker,dynamodb,figma,firebase,git,github,gitlab,gradle,grafana,html,java,js,jenkins,kubernetes,linux,mysql,nginx,nodejs,postman,py,react,spring,solidity,ts,webflow,wordpress&perline=15)](https://skillicons.dev)
