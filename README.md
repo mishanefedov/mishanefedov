@@ -14,6 +14,4 @@
 ### :fire: My Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mishanefedov&theme=github-dark&hide_border=true&card_width=1080)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mishanefedov&show_icons=true&theme=dark&card_width=1080)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mishanefedov&theme=dark&card_width=1080)
 
